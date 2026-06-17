@@ -129,7 +129,3 @@ We welcome contributions to TitanBot! Here's how you can help:
 
 
 ## Thank You
-
-Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
-
-*Last updated: May 2026*
